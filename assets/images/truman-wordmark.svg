@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="100" viewBox="0 0 340 100" role="img" aria-labelledby="t"><title id="t">Truman State University</title>
+  <g fill="#510C76" transform="translate(1 1) scale(.305)">
+    <path d="M174 2 H339 L174 78 Z"/>
+    <path d="M200 81 L428 15 V81 Z"/>
+    <path d="M265 101 L336 145 V293 H265 Z"/>
+  </g>
+  <text x="137" y="49" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="900" fill="#510C76" letter-spacing="-.9">TRUMAN</text>
+  <text x="139" y="67" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="800" fill="#510C76" letter-spacing="2">STATE UNIVERSITY</text>
+</svg>

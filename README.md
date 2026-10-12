@@ -15,3 +15,11 @@ This update returns to the V1 structure: full-width photographic heroes, strong 
 
 ## Technical
 Responsive HTML/CSS, accessible mobile navigation, native links, and progressive enhancement for scroll reveal with reduced-motion support. No build tools or external JavaScript packages are required.
+
+
+## Version 4 updates (October 2026)
+- Restored a fully local logo/wordmark image in header and footer on all four pages so branding does not depend on a third-party CDN. The asset `assets/images/truman-wordmark.svg` is an offline-safe vector recreation of the Truman lockup, based on Truman's published brand artwork/color and **should be replaced with the exact approved logo file supplied by Publications before deployment**.
+- Computer Science hero photo changed to the latest user-supplied image (`assets/images/cs-hero-student.jpg`).
+- Computer Science alumni section rewritten from the supplied four-page `Where Our Alumni Go.pdf`, separating industry placements from doctoral research and academic careers. Former employment is explicitly described as former rather than current.
+- The source document uses some public-profile evidence without stable URLs; confirm positions and secure appropriate alumni approvals before a live publication.
+- Website pages are HTML/CSS/JavaScript and include all user-supplied local photos; selected secondary Truman CDN images remain external.
